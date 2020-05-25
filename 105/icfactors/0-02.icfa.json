@@ -104,9 +104,16 @@
     },
     "CDD": {
         "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.02
+        "fit": "Preceding",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-512",
+                "uuid": "eb4360f0-5f04-4796-99c2-3ede4fcb46e3"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0
     },
     "H1": {
         "error": 0.0,
